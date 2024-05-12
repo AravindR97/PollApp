@@ -78,9 +78,6 @@
 ## Roadmap
 
 - [ ] Base Version
-- [ ] 
-- [ ] 
-- [ ] 
 
 ..
 
