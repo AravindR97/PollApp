@@ -13,9 +13,8 @@ Enter your choice:
 """
 
 print(welcome)
-choice = int(input(menu))
 
-while choice:
+while (choice:= int(input(menu))):
     if choice == 1:
         title = input("\nEnter the title of the poll: ")
         owner = input("\nEnter the poll owner\'s name: ")
@@ -32,5 +31,4 @@ while choice:
         pass
     else:
         break
-    choice = int(input(menu))
 
